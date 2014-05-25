@@ -3,7 +3,7 @@ package WWW::PTV::Area;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
 	my ($class, %args) = @_;
@@ -82,8 +82,7 @@ __END__
 
 =pod
 
-=head1 NAME WWW::PTV::Area - a utility class for working with Public Transport 
-Victoria (PTV) areas.
+=head1 NAME WWW::PTV::Area - a utility class for working with Public Transport Victoria (PTV) areas.
 
 =head1 SYNOPSIS
 

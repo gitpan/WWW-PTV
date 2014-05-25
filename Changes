@@ -1,5 +1,8 @@
 Revision history for WWW-PTV
 
+0.03    Sun May 25 2014 ltp@cpan.org
+	- Repackage for weird namespacing of WWW::PTV::Area
+
 0.02    Fri May 23 2014 ltp@cpan.org
 	- Bumped for minor fixes in v0.02
 
