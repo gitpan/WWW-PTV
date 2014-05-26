@@ -11,7 +11,7 @@ use WWW::PTV::Area;
 use WWW::PTV::Stop;
 use WWW::PTV::Route;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 our $CACHE;
 
 sub __request {
